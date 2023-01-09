@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @El5abaz
-- 👀 I’m interested in Pentesting
+- 👀 I’m interested in Blue team activities 
 - 🌱 I’m currently learning ewpt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
